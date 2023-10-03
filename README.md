@@ -6,7 +6,7 @@
 I'm Parth, a 20 years old web developer from India.
 
 - 🦔 I am currently learning about Web3 & DApps
-
+- 💻 Building Apps with React Native
 - 👨‍💻 Building templeads
 
 + a lot more ;)
@@ -14,8 +14,9 @@ I'm Parth, a 20 years old web developer from India.
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React, Next
-- 👁️ Tailwind-CSS, CSS
+- 👁️ Tailwind-CSS, CSS, Bootstrap
 - 💽 MySQL, SQL, Mongo
+- ☁️ AWS
 + a lot more :D
 
 ## Contact
