@@ -19,5 +19,5 @@ I'm Parth, a 20 years old web developer from India.
 + a lot more :D
 
 ## Contact
-- [@martonlederer](https://twitter.com/21_parthh) on Twitter
+- [@21_parthh](https://twitter.com/21_parthh) on Twitter
 - [@21.parthh](https://instagram.com/21.parthh) on Instagram
