@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/21parthh/21parthh/blob/main/svg.svg" />
+  <img src="https://res.cloudinary.com/dh5trkmtb/image/upload/v1696485439/svg_edz2ac.svg" />
 </h1>
 
 ## Hey! 👋
