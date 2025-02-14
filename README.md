@@ -1,62 +1,53 @@
-# Hi there, I'm Parth! 👋
+# 🚀 Parth Deore | AIML’25
+🧠 AI & ML | 🌐 Full-Stack Dev | ☁️ AWS | 🤖 GenAI | 🛠 DevOps
 
-![Profile views](https://komarev.com/ghpvc/?username=21parthh&color=blueviolet) ![GitHub followers](https://img.shields.io/github/followers/21parthh?label=Follow&style=social)
+## 👋 About Me
+Hey there! I'm Parth Deore, a passionate AI/ML Engineer and Full-Stack Developer with expertise in:
 
-## 🚀 About Me
+- 🤖 **LLMs & GenAI**: Building intelligent AI-driven apps
+- 🎯 **Deep Learning & Computer Vision**: Making AI see and understand
+- 🌍 **Full-Stack Development**: Crafting scalable apps with React.js, Next.js, FastAPI, and Node.js
+- ☁️ **AWS & DevOps**: Deploying AI models & apps with Docker, Kubernetes, CI/CD
+- 📊 **MLOps**: Automating AI pipelines for production-ready ML solutions
 
-I'm a passionate full-stack web developer and Web3 enthusiast with a strong interest in AI and ML.
+💡 I love blending AI and software engineering to create impactful and scalable solutions!
 
-### 🔧 Skills and Expertise
-- **Web Development:** React.js, Next.js, AWS, Redux, JavaScript, TypeScript
-- **Web3 Development:** Ethereum, Solidity, IPFS, ThirdWeb, Blockchain, DApps
-- **DevOps:** Docker, Kubernetes, CI/CD, Helm, Terraform
-- **Machine Learning:** Python, YOLOv8, Generative AI
-- **Other:** Project Management, Team Management
+📌 Open to collaborations, freelancing, and exciting opportunities!
 
-### 🏆 Achievements
-- **Webosoft Competition Hosted By Ashoka Center of Computer Studies:** Winner
-- **Chess Competition Hosted By K K Wagh Polytechnic:** Second Rank
+## 🏆 Achievements
+- 🏅 **1st Rank** - WeboSoft Hackathon, Ashoka Center of Computer Studies (2022)
+- ♟️ **2nd Rank** - Chess Competition, K K Wagh Polytechnic (2019)
+- ⚽ **Runner-Up** - State-Level U19 Football Championship (2019)
 
-### 📚 Education
-- **AIML’25 Graduate**
+## 🛠 Skills
+### **AI & ML**
+- 🔹 **LLMs** | Deep Learning | NLP | Computer Vision
+- 🔹 **TensorFlow** | **PyTorch** | LangChain | OpenAI API
+- 🔹 Data Science | Statistics | Machine Learning
 
-### 🎓 Learning Journey
-- **100-Day Coding Challenge**
-- **Current Learning Path:** DevOps Engineer Roadmap on KodeKloud
+### **Full-Stack Development**
+- 🔹 **Next.js** | **React.js** | **FastAPI** | **Node.js**
+- 🔹 **PostgreSQL** | **MySQL** | **MongoDB**
+- 🔹 REST & GraphQL APIs | WebSockets
 
-### 💼 Professional Experience
-- **Web Development Lead:** GDSC 2023
-- **Tech Lead:** fetch.ai RCPIT
-- **Freelancer:** Providing web development and AI solutions
-- 
-### 📈 Interests
-- **Technical Blogging:** Blogs on Technical Topics
-- **Machine Learning and Generative AI**
-- **Analyzing Marketing Strategy Performance Scenarios**
+### **DevOps & Cloud**
+- 🔹 **AWS** | Docker | Kubernetes | Terraform | Jenkins
+- 🔹 CI/CD Pipelines | GitHub Actions | Prometheus | Grafana
 
-## 🛠️ Projects
-- **NFT Marketplace:** Decentralized marketplace for trading NFTs using Next.js, Thirdweb, Solidity, and IPFS
-- **AI Image Transformation Website:** Transform AI text into images using Leap API
-- **Personal Portfolio:** Built with Next.js and Tailwind CSS
-  
----
+## 🔥 Featured Projects
+### **AI Wealth Manager**
+- 💰 **AI-driven wealth management app** with Next.js, Supabase, LLMs
+- 📊 Automated financial insights, real-time dashboards, and AI-powered receipt scanning
 
-### 📊 GitHub Stats
+### **AI Document Analysis SaaS**
+- 📄 **AI-powered document summarization & analysis**
+- 💳 Stripe-integrated SaaS with user authentication & seamless UX
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=21parthh&show_icons=true&theme=radical" alt="Parth's GitHub stats" style="widt: 32%;">
-</div>
+## 📬 Let's Connect!
+- 💼 **Portfolio**: [parth-was-here.vercel.app](https://parth-was-here.vercel.app)
+- 🐦 **Twitter (X)**: [@21parthh](https://twitter.com/21parthh)
+- 💼 **LinkedIn**: [parth-deore](https://linkedin.com/in/parth-deore)
+- 📂 **GitHub**: [21parthh](https://github.com/21parthh)
+- 🎯 **LeetCode**: [21parthh](https://leetcode.com/21parthh)
 
-### 🔥 Streak Stats
-
-![Parth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=21parthh&theme=radical)
-
----
-
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/parth-deore)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/21_parthh)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue)](https://www.instagram.com/21.parthh)
-[![Medium](https://img.shields.io/badge/Medium-Profile-blue)](https://https://medium.com/@parth.deore)
-
+💌 Drop me a message & let's build something awesome! 🚀
